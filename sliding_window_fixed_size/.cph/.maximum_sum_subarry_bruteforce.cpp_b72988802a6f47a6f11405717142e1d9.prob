@@ -1,0 +1,1 @@
+{"name":"Local: maximum_sum_subarry_bruteforce","url":"c:\\PS_Techniques\\sliding_window\\maximum_sum_subarry_bruteforce.cpp","tests":[{"id":1709980399254,"input":"6 3\n5 6 9 2 4 8","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\PS_Techniques\\sliding_window\\maximum_sum_subarry_bruteforce.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maximum_sum_subarray_sliding_window","url":"c:\\PS_Techniques\\sliding_window\\maximum_sum_subarray_sliding_window.cpp","tests":[{"id":1709981008169,"input":"6 3\n5 6 9 2 4 8","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\PS_Techniques\\sliding_window\\maximum_sum_subarray_sliding_window.cpp","group":"local","local":true}
