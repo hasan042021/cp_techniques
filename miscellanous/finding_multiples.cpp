@@ -17,7 +17,6 @@ int main()
                 divisors.insert(n / k);
         }
     }
-
     for (auto i : divisors)
     {
         cout << i << " ";
