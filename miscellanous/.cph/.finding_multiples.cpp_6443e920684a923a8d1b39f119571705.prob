@@ -1,0 +1,1 @@
+{"name":"Local: finding_multiples","url":"c:\\PS_Techniques\\miscellanous\\finding_multiples.cpp","tests":[{"id":1710756276420,"input":"18","output":"1 2 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\PS_Techniques\\miscellanous\\finding_multiples.cpp","group":"local","local":true}

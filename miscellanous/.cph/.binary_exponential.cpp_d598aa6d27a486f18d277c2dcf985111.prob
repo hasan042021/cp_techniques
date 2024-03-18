@@ -1,0 +1,1 @@
+{"name":"Local: binary_exponential","url":"c:\\PS_Techniques\\miscellanous\\binary_exponential.cpp","tests":[{"id":1710755941957,"input":"3 2","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\PS_Techniques\\miscellanous\\binary_exponential.cpp","group":"local","local":true}
